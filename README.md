@@ -1,7 +1,8 @@
 # 🎹 Mechanical Keyboard Sound Simulator for Linux
 
 A lightweight Linux application that plays mechanical keyboard sounds as you type. Perfect for enjoying that satisfying Cherry MX click without the actual mechanical keyboard!
-<img width="228" height="128" alt="image" src="https://github.com/user-attachments/assets/a977827a-40fc-480d-9b0d-d5a187d66e0d" />
+
+
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
