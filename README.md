@@ -224,14 +224,6 @@ Settings are stored in `~/.mech_keyboard_config.json`:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-### To-Do List
-
-- [ ] Add more default sound profiles
-- [ ] Support for individual .wav/.ogg files (non-sprite sheet)
-- [ ] GUI theme customization
-- [ ] Per-key volume adjustment
-- [ ] Sound randomization options
-- [ ] Wayland-specific improvements
 
 ## 📄 License
 
@@ -243,10 +235,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [pynput](https://github.com/moses-palmer/pynput) for keyboard detection
 - Inspired by various mechanical keyboard enthusiasts
 
-## 💬 Support
-
-Found a bug? Have a feature request? [Open an issue](https://github.com/yourusername/mech-keyboard-sound/issues)
-
----
 
 **Enjoy your virtual mechanical keyboard! 🎹✨**
